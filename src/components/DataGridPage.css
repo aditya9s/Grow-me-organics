@@ -1,0 +1,24 @@
+/* DataGridPage.css */
+
+/* Style for the container div */
+.data-grid-page-container {
+    margin: 20px;
+  }
+  
+  /* Style for the DataGrid component */
+  .data-grid {
+    height: 500px;
+    width: 100%;
+    background-color:#A9A9A9;
+    font-size: larger;
+    font-family: cursive;
+  }
+  
+  
+  /* Style for the DepartmentList component (adjust as needed) */
+  .department-list {
+    margin-top: 20px;
+  }
+  
+  /* Add more styles as needed */
+  
